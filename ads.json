@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Продается квартира",
+        "description": "3-комнатная квартира в центре",
+        "region": "Ташкент",
+        "price": "50,000 USD",
+        "media": "https://via.placeholder.com/150",
+        "category": "real_estate"
+    },
+    {
+        "title": "Автомобиль на продажу",
+        "description": "Chevrolet Spark, 2019 года",
+        "region": "Самарканд",
+        "price": "7,000 USD",
+        "media": "https://via.placeholder.com/150",
+        "category": "cars"
+    }
+]
